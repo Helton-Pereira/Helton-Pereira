@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Olá! Sou o Helton, estudante de desenvolvimento web
+
+https://www.linkedin.com/in/helton-alves-pereira-87a43a238/
+
 <!--
 **Helton-Pereira/Helton-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
